@@ -16,5 +16,5 @@
     "gh-pages": "^5.0.0",
     "@vitejs/plugin-react": "^3.1.0"
   },
-  "homepage": "https://ghostsofmontroseband.github.io/bandavailability"
+  "homepage": "https://ghostsofmontroseband.github.io/band-availability-app"
 }
